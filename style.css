@@ -1,0 +1,37 @@
+.main{
+    text-align: center;
+}
+.search-box{
+    display: block;
+    margin-top: 2px;
+}
+.g-s{
+    width:150px;
+    margin-top: 30px;
+}
+.i-f-l{
+    width:150px;
+    margin-top: 30px;
+}
+
+img {
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input {
+ width: 400px;
+ font-size: large;
+ font-weight: bold;
+ margin-left: auto;
+ margin-right: auto;
+ line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+
